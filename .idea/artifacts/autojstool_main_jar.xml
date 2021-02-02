@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="autojstool.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/autojstool_main_jar</output-path>
+    <root id="archive" name="autojstool.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="autojstool.main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Auto.js_APK_Packer_4.1.0_Alpha5__template-dex2jar.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/20.1.0/2fcd1f3225bca0c4a7bc931142076f8c1e80993f/annotations-20.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.78/a3927de9bd6f351429bcf763712c9890629d8f51/jcommander-1.78.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

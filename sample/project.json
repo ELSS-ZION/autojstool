@@ -1,0 +1,15 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "949749CD-1",
+    "build_number": 1,
+    "build_time": 1607329685525
+  },
+  "useFeatures": [],
+  "main": "main.js",
+  "name": "main",
+  "packageName": "com.example.script1607329524531",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
